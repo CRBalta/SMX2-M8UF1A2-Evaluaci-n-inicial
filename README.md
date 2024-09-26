@@ -45,3 +45,5 @@ Respuesta.
 
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+![UwU](https://github.com/CRBalta/SMX2-M8UF1A2-Evaluaci-n-inicial/blob/main/Algo.png)
+
