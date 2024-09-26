@@ -27,8 +27,8 @@ Respuesta.
 |Google Docs|![UwU](https://github.com/CRBalta/SMX2-M8UF1A2-Evaluaci-n-inicial/blob/main/Check.jpg)|
 |Google Slides|![UwU](https://github.com/CRBalta/SMX2-M8UF1A2-Evaluaci-n-inicial/blob/main/Check.jpg)|
 |Google Sheets|![UwU](https://github.com/CRBalta/SMX2-M8UF1A2-Evaluaci-n-inicial/blob/main/Check.jpg)|
-|Google Calendar|![alt text](https://github.com/img/icon48.png "Título opcional de la imagen")|
-|Google Meet|![alt text](https://github.com/img/icon48.png "Título opcional de la imagen")|
+|Google Calendar|![UwU](https://github.com/CRBalta/SMX2-M8UF1A2-Evaluaci-n-inicial/blob/main/Calendario.png)|
+|Google Meet|![UwU](https://github.com/CRBalta/SMX2-M8UF1A2-Evaluaci-n-inicial/blob/main/ordenador.jpeg)|
 |...|...|
 
 
