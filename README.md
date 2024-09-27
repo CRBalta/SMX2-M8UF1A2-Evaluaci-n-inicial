@@ -19,7 +19,8 @@ Es un software accesible desde un navegador que permite la interacción
 
 Es un software que facilita tareas de oficina, como Word/Excel.
 
-5. Herramientas de Google:
+[5. Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "5. Herramientas de Google:")
+
 
 |Aplicaciones|Visto|
 |-----------|------|
