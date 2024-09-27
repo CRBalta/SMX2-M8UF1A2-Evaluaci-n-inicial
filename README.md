@@ -1,4 +1,4 @@
-# *SMX2-M8UF1A2-Evaluaci-n-inicial*
+# **SMX2-M8UF1A2-Evaluaci-n-inicial**
 
 1. ¿Qué es una página web?
 
